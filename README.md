@@ -1,7 +1,7 @@
 # Verzel Auction — Frontend
 
 Interface web da **Casa de Leilões online** do teste técnico Elite Dev / Verzel.
-Consome a API e o WebSocket especificados em [`verzel-backend`](../verzel-backend) e
+Consome a API e o WebSocket especificados em [`verzel-backend`](https://github.com/Gideonalves05/verzel-backend) e
 entrega todas as telas pedidas no PDF do desafio:
 
 - Vitrine pública com abas **ao vivo / agendados / encerrados** (cancelados não aparecem)
